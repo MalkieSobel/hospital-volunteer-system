@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCall xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Call>
+    <CallId>1000</CallId>
+    <callType>SongCheer</callType>
+    <VerbalDescription>Sing for children with special needs in the ward.</VerbalDescription>
+    <Adress>Hadassah Medical Center - Ein Kerem</Adress>
+    <Latitude>31.749</Latitude>
+    <Longitude>35.1395</Longitude>
+    <CallOpenTime>2024-05-13T08:22:35</CallOpenTime>
+    <MaxEndTime>2024-05-13T10:22:35</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1001</CallId>
+    <callType>KidsActivity</callType>
+    <VerbalDescription>Create a shared art exhibit by the children.</VerbalDescription>
+    <Adress>Hadassah Medical Center - Ein Kerem</Adress>
+    <Latitude>31.749</Latitude>
+    <Longitude>35.1395</Longitude>
+    <CallOpenTime>2024-03-25T17:46:59</CallOpenTime>
+    <MaxEndTime>2024-03-25T22:46:59</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1002</CallId>
+    <callType>CoockFood</callType>
+    <VerbalDescription>Cook meals for children with food allergies.</VerbalDescription>
+    <Adress>Shaare Zedek Medical Center</Adress>
+    <Latitude>31.7428</Latitude>
+    <Longitude>35.213</Longitude>
+    <CallOpenTime>2023-12-05T11:34:22</CallOpenTime>
+    <MaxEndTime>2023-12-05T16:34:22</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1003</CallId>
+    <callType>NurseHelp</callType>
+    <VerbalDescription>Assist in organizing the room after a medical procedure.</VerbalDescription>
+    <Adress>Hadassah Medical Center - Ein Kerem</Adress>
+    <Latitude>31.749</Latitude>
+    <Longitude>35.1395</Longitude>
+    <CallOpenTime>2023-10-18T19:59:10</CallOpenTime>
+    <MaxEndTime>2023-10-18T23:59:10</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1004</CallId>
+    <callType>KidsActivity</callType>
+    <VerbalDescription>Organize memory games and thinking exercises for children.</VerbalDescription>
+    <Adress>Hadassah Medical Center - Ein Kerem</Adress>
+    <Latitude>31.749</Latitude>
+    <Longitude>35.1395</Longitude>
+    <CallOpenTime>2024-02-07T14:08:30</CallOpenTime>
+    <MaxEndTime>2024-02-07T16:08:30</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1005</CallId>
+    <callType>SongCheer</callType>
+    <VerbalDescription>Sing for patients waiting for medical treatment.</VerbalDescription>
+    <Adress>Shaare Zedek Medical Center</Adress>
+    <Latitude>31.7428</Latitude>
+    <Longitude>35.213</Longitude>
+    <CallOpenTime>2024-01-12T09:14:49</CallOpenTime>
+    <MaxEndTime>2024-01-12T14:14:49</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1006</CallId>
+    <callType>NurseHelp</callType>
+    <VerbalDescription>Assist in transferring a patient to another department.</VerbalDescription>
+    <Adress>Hadassah Medical Center - Ein Kerem</Adress>
+    <Latitude>31.749</Latitude>
+    <Longitude>35.1395</Longitude>
+    <CallOpenTime>2024-04-22T21:35:11</CallOpenTime>
+    <MaxEndTime>2024-04-22T23:35:11</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1007</CallId>
+    <callType>SongCheer</callType>
+    <VerbalDescription>Sing to children in isolation to cheer them up.</VerbalDescription>
+    <Adress>Hadassah Medical Center - Ein Kerem</Adress>
+    <Latitude>31.749</Latitude>
+    <Longitude>35.1395</Longitude>
+    <CallOpenTime>2023-11-20T03:40:58</CallOpenTime>
+    <MaxEndTime>2023-11-20T05:40:58</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1008</CallId>
+    <callType>NurseHelp</callType>
+    <VerbalDescription>Assist in updating medical records.</VerbalDescription>
+    <Adress>Shaare Zedek Medical Center</Adress>
+    <Latitude>31.7428</Latitude>
+    <Longitude>35.213</Longitude>
+    <CallOpenTime>2024-06-02T06:29:16</CallOpenTime>
+    <MaxEndTime>2024-06-02T08:29:16</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1009</CallId>
+    <callType>NurseHelp</callType>
+    <VerbalDescription>Assist in preparing the room for surgery.</VerbalDescription>
+    <Adress>Hadassah Medical Center - Ein Kerem</Adress>
+    <Latitude>31.749</Latitude>
+    <Longitude>35.1395</Longitude>
+    <CallOpenTime>2024-07-28T16:50:07</CallOpenTime>
+    <MaxEndTime>2024-07-28T20:50:07</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1010</CallId>
+    <callType>NurseHelp</callType>
+    <VerbalDescription>Support the nurse in managing equipment in the ward.</VerbalDescription>
+    <Adress>Shaare Zedek Medical Center</Adress>
+    <Latitude>31.7428</Latitude>
+    <Longitude>35.213</Longitude>
+    <CallOpenTime>2023-09-03T23:03:02</CallOpenTime>
+    <MaxEndTime>2023-09-03T02:03:02</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1011</CallId>
+    <callType>NurseHelp</callType>
+    <VerbalDescription>Help in preparing medical equipment for a patient before treatment.</VerbalDescription>
+    <Adress>Shaare Zedek Medical Center</Adress>
+    <Latitude>31.7428</Latitude>
+    <Longitude>35.213</Longitude>
+    <CallOpenTime>2024-05-19T12:11:45</CallOpenTime>
+    <MaxEndTime>2024-05-19T14:11:45</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1012</CallId>
+    <callType>CoockFood</callType>
+    <VerbalDescription>Cook hot meals for patients in long-term hospitalization.</VerbalDescription>
+    <Adress>Hadassah Medical Center - Ein Kerem</Adress>
+    <Latitude>31.749</Latitude>
+    <Longitude>35.1395</Longitude>
+    <CallOpenTime>2023-12-30T08:02:17</CallOpenTime>
+    <MaxEndTime>2023-12-30T11:02:17</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1013</CallId>
+    <callType>SongCheer</callType>
+    <VerbalDescription>Sing for children with special needs in the ward.</VerbalDescription>
+    <Adress>Hadassah Medical Center - Ein Kerem</Adress>
+    <Latitude>31.749</Latitude>
+    <Longitude>35.1395</Longitude>
+    <CallOpenTime>2023-11-11T20:19:26</CallOpenTime>
+    <MaxEndTime>2023-11-11T22:19:26</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1014</CallId>
+    <callType>KidsActivity</callType>
+    <VerbalDescription>Educational activities and board games for children.</VerbalDescription>
+    <Adress>Shaare Zedek Medical Center</Adress>
+    <Latitude>31.7428</Latitude>
+    <Longitude>35.213</Longitude>
+    <CallOpenTime>2024-04-17T05:55:11</CallOpenTime>
+    <MaxEndTime>2024-04-17T07:55:11</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1015</CallId>
+    <callType>SongCheer</callType>
+    <VerbalDescription>Sing to children in isolation to cheer them up.</VerbalDescription>
+    <Adress>Shaare Zedek Medical Center</Adress>
+    <Latitude>31.7428</Latitude>
+    <Longitude>35.213</Longitude>
+    <CallOpenTime>2023-10-28T15:45:39</CallOpenTime>
+    <MaxEndTime>2023-10-28T20:45:39</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1016</CallId>
+    <callType>SongCheer</callType>
+    <VerbalDescription>Singing and offering emotional support for hospitalized children.</VerbalDescription>
+    <Adress>Hadassah Medical Center - Ein Kerem</Adress>
+    <Latitude>31.749</Latitude>
+    <Longitude>35.1395</Longitude>
+    <CallOpenTime>2024-03-03T00:05:13</CallOpenTime>
+    <MaxEndTime>2024-03-03T05:05:13</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1017</CallId>
+    <callType>NurseHelp</callType>
+    <VerbalDescription>Assist in maintaining a sterile environment in the room.</VerbalDescription>
+    <Adress>Shaare Zedek Medical Center</Adress>
+    <Latitude>31.7428</Latitude>
+    <Longitude>35.213</Longitude>
+    <CallOpenTime>2023-12-25T18:32:40</CallOpenTime>
+    <MaxEndTime>2023-12-25T21:32:40</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1018</CallId>
+    <callType>CoockFood</callType>
+    <VerbalDescription>Arrange snacks and drinks for patients in the ICU.</VerbalDescription>
+    <Adress>Shaare Zedek Medical Center</Adress>
+    <Latitude>31.7428</Latitude>
+    <Longitude>35.213</Longitude>
+    <CallOpenTime>2024-02-15T09:40:02</CallOpenTime>
+    <MaxEndTime>2024-02-15T13:40:02</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1019</CallId>
+    <callType>CoockFood</callType>
+    <VerbalDescription>Cook healthy meals for patients after surgery.</VerbalDescription>
+    <Adress>Shaare Zedek Medical Center</Adress>
+    <Latitude>31.7428</Latitude>
+    <Longitude>35.213</Longitude>
+    <CallOpenTime>2024-01-30T14:52:36</CallOpenTime>
+    <MaxEndTime>2024-01-30T18:52:36</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1020</CallId>
+    <callType>CoockFood</callType>
+    <VerbalDescription>Arrange breakfast for patients in the clinics.</VerbalDescription>
+    <Adress>Shaare Zedek Medical Center</Adress>
+    <Latitude>31.7428</Latitude>
+    <Longitude>35.213</Longitude>
+    <CallOpenTime>2024-05-06T19:19:28</CallOpenTime>
+    <MaxEndTime>2024-05-06T22:19:28</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1021</CallId>
+    <callType>SongCheer</callType>
+    <VerbalDescription>Encourage and sing for a group of patients after chemotherapy.</VerbalDescription>
+    <Adress>Shaare Zedek Medical Center</Adress>
+    <Latitude>31.7428</Latitude>
+    <Longitude>35.213</Longitude>
+    <CallOpenTime>2023-10-11T08:11:03</CallOpenTime>
+    <MaxEndTime>2023-10-11T10:11:03</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1022</CallId>
+    <callType>KidsActivity</callType>
+    <VerbalDescription>Dynamic activities for children during extended hospital stays.</VerbalDescription>
+    <Adress>Hadassah Medical Center - Ein Kerem</Adress>
+    <Latitude>31.749</Latitude>
+    <Longitude>35.1395</Longitude>
+    <CallOpenTime>2024-06-23T02:44:15</CallOpenTime>
+    <MaxEndTime>2024-06-23T04:44:15</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1023</CallId>
+    <callType>SongCheer</callType>
+    <VerbalDescription>Sing for sick children who have undergone painful medical procedures.</VerbalDescription>
+    <Adress>Shaare Zedek Medical Center</Adress>
+    <Latitude>31.7428</Latitude>
+    <Longitude>35.213</Longitude>
+    <CallOpenTime>2024-07-14T07:12:39</CallOpenTime>
+    <MaxEndTime>2024-07-14T12:12:39</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1024</CallId>
+    <callType>SongCheer</callType>
+    <VerbalDescription>Encourage and sing for a group of patients during a tough day.</VerbalDescription>
+    <Adress>Hadassah Medical Center - Ein Kerem</Adress>
+    <Latitude>31.749</Latitude>
+    <Longitude>35.1395</Longitude>
+    <CallOpenTime>2023-09-08T21:50:55</CallOpenTime>
+    <MaxEndTime>2023-09-08T03:50:55</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1025</CallId>
+    <callType>NurseHelp</callType>
+    <VerbalDescription>Assist in transferring medical equipment between rooms.</VerbalDescription>
+    <Adress>Hadassah Medical Center - Ein Kerem</Adress>
+    <Latitude>31.749</Latitude>
+    <Longitude>35.1395</Longitude>
+    <CallOpenTime>2023-12-14T04:27:18</CallOpenTime>
+    <MaxEndTime>2023-12-14T07:27:18</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1026</CallId>
+    <callType>KidsActivity</callType>
+    <VerbalDescription>Help children with schoolwork during long-term hospitalization.</VerbalDescription>
+    <Adress>Shaare Zedek Medical Center</Adress>
+    <Latitude>31.7428</Latitude>
+    <Longitude>35.213</Longitude>
+    <CallOpenTime>2024-03-01T11:59:09</CallOpenTime>
+    <MaxEndTime>2024-03-01T13:59:09</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1027</CallId>
+    <callType>KidsActivity</callType>
+    <VerbalDescription>Dynamic activities for children during extended hospital stays.</VerbalDescription>
+    <Adress>Hadassah Medical Center - Ein Kerem</Adress>
+    <Latitude>31.749</Latitude>
+    <Longitude>35.1395</Longitude>
+    <CallOpenTime>2024-06-19T16:05:57</CallOpenTime>
+    <MaxEndTime>2024-06-19T20:05:57</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1028</CallId>
+    <callType>NurseHelp</callType>
+    <VerbalDescription>Assist in preparing the room for surgery.</VerbalDescription>
+    <Adress>Hadassah Medical Center - Ein Kerem</Adress>
+    <Latitude>31.749</Latitude>
+    <Longitude>35.1395</Longitude>
+    <CallOpenTime>2024-01-10T12:01:04</CallOpenTime>
+    <MaxEndTime>2024-01-10T18:01:04</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1029</CallId>
+    <callType>SongCheer</callType>
+    <VerbalDescription>Sing and encourage a patient undergoing surgery.</VerbalDescription>
+    <Adress>Shaare Zedek Medical Center</Adress>
+    <Latitude>31.7428</Latitude>
+    <Longitude>35.213</Longitude>
+    <CallOpenTime>2024-04-05T22:32:50</CallOpenTime>
+    <MaxEndTime>2024-04-05T03:32:50</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1030</CallId>
+    <callType>KidsActivity</callType>
+    <VerbalDescription>Dynamic activities for children during extended hospital stays.</VerbalDescription>
+    <Adress>Hadassah Medical Center - Ein Kerem</Adress>
+    <Latitude>31.749</Latitude>
+    <Longitude>35.1395</Longitude>
+    <CallOpenTime>2024-02-03T05:10:33</CallOpenTime>
+    <MaxEndTime>2024-02-03T09:10:33</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1031</CallId>
+    <callType>CoockFood</callType>
+    <VerbalDescription>Cook healthy meals for patients after surgery.</VerbalDescription>
+    <Adress>Shaare Zedek Medical Center</Adress>
+    <Latitude>31.7428</Latitude>
+    <Longitude>35.213</Longitude>
+    <CallOpenTime>2023-11-17T13:21:07</CallOpenTime>
+    <MaxEndTime>2023-11-17T16:21:07</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1032</CallId>
+    <callType>CoockFood</callType>
+    <VerbalDescription>Prepare fresh salads for patients on a healthy diet.</VerbalDescription>
+    <Adress>Hadassah Medical Center - Ein Kerem</Adress>
+    <Latitude>31.749</Latitude>
+    <Longitude>35.1395</Longitude>
+    <CallOpenTime>2023-10-25T20:08:40</CallOpenTime>
+    <MaxEndTime>2023-10-25T22:08:40</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1033</CallId>
+    <callType>CoockFood</callType>
+    <VerbalDescription>Prepare food for children after painful medical treatment.</VerbalDescription>
+    <Adress>Shaare Zedek Medical Center</Adress>
+    <Latitude>31.7428</Latitude>
+    <Longitude>35.213</Longitude>
+    <CallOpenTime>2023-08-13T07:59:45</CallOpenTime>
+    <MaxEndTime>2023-08-13T09:59:45</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1034</CallId>
+    <callType>SongCheer</callType>
+    <VerbalDescription>Sing and encourage a patient undergoing surgery.</VerbalDescription>
+    <Adress>Hadassah Medical Center - Ein Kerem</Adress>
+    <Latitude>31.749</Latitude>
+    <Longitude>35.1395</Longitude>
+    <CallOpenTime>2024-05-23T00:13:02</CallOpenTime>
+    <MaxEndTime>2024-05-23T02:13:02</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1035</CallId>
+    <callType>SongCheer</callType>
+    <VerbalDescription>Encourage and sing for children in the pediatric ward.</VerbalDescription>
+    <Adress>Shaare Zedek Medical Center</Adress>
+    <Latitude>31.7428</Latitude>
+    <Longitude>35.213</Longitude>
+    <CallOpenTime>2023-09-22T18:30:29</CallOpenTime>
+    <MaxEndTime>2023-09-22T20:30:29</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1036</CallId>
+    <callType>CoockFood</callType>
+    <VerbalDescription>Prepare meals for patients in isolation.</VerbalDescription>
+    <Adress>Hadassah Medical Center - Ein Kerem</Adress>
+    <Latitude>31.749</Latitude>
+    <Longitude>35.1395</Longitude>
+    <CallOpenTime>2024-01-15T04:10:52</CallOpenTime>
+    <MaxEndTime>2024-01-15T06:10:52</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1037</CallId>
+    <callType>NurseHelp</callType>
+    <VerbalDescription>Support the nurse in preparing for a meeting with the doctor.</VerbalDescription>
+    <Adress>Shaare Zedek Medical Center</Adress>
+    <Latitude>31.7428</Latitude>
+    <Longitude>35.213</Longitude>
+    <CallOpenTime>2024-02-28T22:04:09</CallOpenTime>
+    <MaxEndTime>2024-02-28T03:04:09</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1038</CallId>
+    <callType>NurseHelp</callType>
+    <VerbalDescription>Assist in transferring medical equipment between rooms.</VerbalDescription>
+    <Adress>Hadassah Medical Center - Ein Kerem</Adress>
+    <Latitude>31.749</Latitude>
+    <Longitude>35.1395</Longitude>
+    <CallOpenTime>2023-12-22T09:28:11</CallOpenTime>
+    <MaxEndTime>2023-12-22T11:28:11</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1039</CallId>
+    <callType>NurseHelp</callType>
+    <VerbalDescription>Help in preparing a room for a new patient.</VerbalDescription>
+    <Adress>Hadassah Medical Center - Ein Kerem</Adress>
+    <Latitude>31.749</Latitude>
+    <Longitude>35.1395</Longitude>
+    <CallOpenTime>2024-03-17T00:37:48</CallOpenTime>
+    <MaxEndTime>2024-03-17T05:37:48</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1040</CallId>
+    <callType>KidsActivity</callType>
+    <VerbalDescription>Hold simple craft workshops for children in isolation.</VerbalDescription>
+    <Adress>Hadassah Medical Center - Ein Kerem</Adress>
+    <Latitude>31.749</Latitude>
+    <Longitude>35.1395</Longitude>
+    <CallOpenTime>2023-11-09T12:25:05</CallOpenTime>
+    <MaxEndTime>2023-11-09T14:25:05</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1041</CallId>
+    <callType>CoockFood</callType>
+    <VerbalDescription>Prepare meals for patients in isolation.</VerbalDescription>
+    <Adress>Hadassah Medical Center - Ein Kerem</Adress>
+    <Latitude>31.749</Latitude>
+    <Longitude>35.1395</Longitude>
+    <CallOpenTime>2024-06-11T13:07:19</CallOpenTime>
+    <MaxEndTime>2024-06-11T16:07:19</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1042</CallId>
+    <callType>NurseHelp</callType>
+    <VerbalDescription>Help in transferring a patient from bed to wheelchair.</VerbalDescription>
+    <Adress>Shaare Zedek Medical Center</Adress>
+    <Latitude>31.7428</Latitude>
+    <Longitude>35.213</Longitude>
+    <CallOpenTime>2024-07-02T21:45:55</CallOpenTime>
+    <MaxEndTime>2024-07-02T23:45:55</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1043</CallId>
+    <callType>CoockFood</callType>
+    <VerbalDescription>Cook meals for children with food allergies.</VerbalDescription>
+    <Adress>Shaare Zedek Medical Center</Adress>
+    <Latitude>31.7428</Latitude>
+    <Longitude>35.213</Longitude>
+    <CallOpenTime>2023-08-20T05:38:27</CallOpenTime>
+    <MaxEndTime>2023-08-20T07:38:27</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1044</CallId>
+    <callType>KidsActivity</callType>
+    <VerbalDescription>Create a puppet theater with children in the pediatric ward.</VerbalDescription>
+    <Adress>Shaare Zedek Medical Center</Adress>
+    <Latitude>31.7428</Latitude>
+    <Longitude>35.213</Longitude>
+    <CallOpenTime>2024-02-09T17:10:41</CallOpenTime>
+    <MaxEndTime>2024-02-09T21:10:41</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1045</CallId>
+    <callType>NurseHelp</callType>
+    <VerbalDescription>Assist in maintaining a sterile environment in the room.</VerbalDescription>
+    <Adress>Hadassah Medical Center - Ein Kerem</Adress>
+    <Latitude>31.749</Latitude>
+    <Longitude>35.1395</Longitude>
+    <CallOpenTime>2023-12-18T02:05:04</CallOpenTime>
+    <MaxEndTime>2023-12-18T06:05:04</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1046</CallId>
+    <callType>CoockFood</callType>
+    <VerbalDescription>Arrange snacks and drinks for patients in the ICU.</VerbalDescription>
+    <Adress>Hadassah Medical Center - Ein Kerem</Adress>
+    <Latitude>31.749</Latitude>
+    <Longitude>35.1395</Longitude>
+    <CallOpenTime>2024-01-22T16:24:10</CallOpenTime>
+    <MaxEndTime>2024-01-22T18:24:10</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1047</CallId>
+    <callType>NurseHelp</callType>
+    <VerbalDescription>Help in preparing a patient before medical treatments.</VerbalDescription>
+    <Adress>Shaare Zedek Medical Center</Adress>
+    <Latitude>31.7428</Latitude>
+    <Longitude>35.213</Longitude>
+    <CallOpenTime>2024-04-12T14:18:26</CallOpenTime>
+    <MaxEndTime>2024-04-12T20:18:26</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1048</CallId>
+    <callType>CoockFood</callType>
+    <VerbalDescription>Prepare light meals for patients with stomach issues.</VerbalDescription>
+    <Adress>Hadassah Medical Center - Ein Kerem</Adress>
+    <Latitude>31.749</Latitude>
+    <Longitude>35.1395</Longitude>
+    <CallOpenTime>2023-09-14T23:56:33</CallOpenTime>
+    <MaxEndTime>2023-09-14T01:56:33</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1049</CallId>
+    <callType>CoockFood</callType>
+    <VerbalDescription>Cook meals for hospital staff and families of patients.</VerbalDescription>
+    <Adress>Hadassah Medical Center - Ein Kerem</Adress>
+    <Latitude>31.749</Latitude>
+    <Longitude>35.1395</Longitude>
+    <CallOpenTime>2024-07-08T10:43:50</CallOpenTime>
+    <MaxEndTime>2024-07-08T16:43:50</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1050</CallId>
+    <callType>SongCheer</callType>
+    <VerbalDescription>Sing and engage in calming activities with sick children.</VerbalDescription>
+    <Adress>Hadassah Medical Center - Ein Kerem</Adress>
+    <Latitude>31.749</Latitude>
+    <Longitude>35.1395</Longitude>
+    <CallOpenTime>2023-12-02T00:13:18</CallOpenTime>
+    <MaxEndTime>2023-12-02T06:13:18</MaxEndTime>
+  </Call>
+  <Call>
+    <CallId>1051</CallId>
+    <callType>SongCheer</callType>
+    <VerbalDescription>Sing and encourage a patient undergoing surgery.</VerbalDescription>
+    <Adress>Shaare Zedek Medical Center</Adress>
+    <Latitude>31.7428</Latitude>
+    <Longitude>35.213</Longitude>
+    <CallOpenTime>2024-05-02T09:05:01</CallOpenTime>
+    <MaxEndTime>2024-05-02T12:05:01</MaxEndTime>
+  </Call>
+</ArrayOfCall>

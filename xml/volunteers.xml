@@ -1,0 +1,2148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Volunteer>
+  <Volunteer>
+    <VolunteerId>535156002</VolunteerId>
+    <FullName>Moshe Cohen</FullName>
+    <Email>moshe.cohen@mail.com</Email>
+    <Password>Moshe@2024Cohen</Password>
+    <Adress>Rehov HaRav Kook 12, Jerusalem</Adress>
+    <Latitude>31.7721</Latitude>
+    <Longitude>35.2152</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>8606</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>594144175</VolunteerId>
+    <FullName>Yitzhak Levy</FullName>
+    <Email>yitzhak.levy@mail.com</Email>
+    <Password>Yitzhak!LevY78</Password>
+    <Adress>Rehov Sha'arei Chessed 5, Jerusalem</Adress>
+    <Latitude>31.7867</Latitude>
+    <Longitude>35.2131</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>8708</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>480581044</VolunteerId>
+    <FullName>Aryeh Fried</FullName>
+    <Email>aryeh.fried@mail.com</Email>
+    <Password>Aryeh_Fried123$</Password>
+    <Adress>Rehov Zichron Moshe 8, Jerusalem</Adress>
+    <Latitude>31.7739</Latitude>
+    <Longitude>35.2113</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>8668</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>262522154</VolunteerId>
+    <FullName>Shimon Baruch</FullName>
+    <Email>shimon.baruch@mail.com</Email>
+    <Password>Shimon@Baruch456</Password>
+    <Adress>Rehov Rabbi Akiva 19, Jerusalem</Adress>
+    <Latitude>31.776</Latitude>
+    <Longitude>35.2137</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>12185</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>242458513</VolunteerId>
+    <FullName>Chaim Goldstein</FullName>
+    <Email>chaim.goldstein@mail.com</Email>
+    <Password>Chaim_Goldstein2024#</Password>
+    <Adress>Rehov Rav Herzog 25, Jerusalem</Adress>
+    <Latitude>31.7633</Latitude>
+    <Longitude>35.2028</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>10871</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>606331886</VolunteerId>
+    <FullName>Sarah Levi</FullName>
+    <Email>sarah.levi@mail.com</Email>
+    <Password>Sarah!Levi89</Password>
+    <Adress>Rehov HaRav Shmuel 3, Jerusalem</Adress>
+    <Latitude>31.7852</Latitude>
+    <Longitude>35.2006</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>4564</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>683500962</VolunteerId>
+    <FullName>Miriam Weiss</FullName>
+    <Email>miriam.weiss@mail.com</Email>
+    <Password>Miriam_Weiss!2023</Password>
+    <Adress>Rehov Nechama 14, Jerusalem</Adress>
+    <Latitude>31.7582</Latitude>
+    <Longitude>35.2215</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>5516</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>602317042</VolunteerId>
+    <FullName>Rachel Schwartz</FullName>
+    <Email>rachel.schwartz@mail.com</Email>
+    <Password>Rachel$Schwartz11</Password>
+    <Adress>Rehov Yosef 21, Jerusalem</Adress>
+    <Latitude>31.7634</Latitude>
+    <Longitude>35.206</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>7601</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>767302534</VolunteerId>
+    <FullName>Esther Friedman</FullName>
+    <Email>esther.friedman@mail.com</Email>
+    <Password>Esther@Friedman99</Password>
+    <Adress>Rehov HaRav Shmuel 8, Jerusalem</Adress>
+    <Latitude>31.7911</Latitude>
+    <Longitude>35.2153</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>4485</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>640982667</VolunteerId>
+    <FullName>Rivka Shapiro</FullName>
+    <Email>rivka.shapiro@mail.com</Email>
+    <Password>RivkaSh@piro21</Password>
+    <Adress>Rehov Betzalel 4, Jerusalem</Adress>
+    <Latitude>31.7778</Latitude>
+    <Longitude>35.211</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>6326</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>482366047</VolunteerId>
+    <FullName>David Rosen</FullName>
+    <Email>david.rosen@mail.com</Email>
+    <Password>David_Rosen@2024</Password>
+    <Adress>Rehov HaRav Shlomo 11, Jerusalem</Adress>
+    <Latitude>31.7735</Latitude>
+    <Longitude>35.2086</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>12054</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>532894712</VolunteerId>
+    <FullName>Yaakov Katz</FullName>
+    <Email>yaakov.katz@mail.com</Email>
+    <Password>Yaakov_Katz789#</Password>
+    <Adress>Rehov Dolev 22, Jerusalem</Adress>
+    <Latitude>31.7504</Latitude>
+    <Longitude>35.2068</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>5705</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>404005556</VolunteerId>
+    <FullName>Menachem Stern</FullName>
+    <Email>menachem.stern@mail.com</Email>
+    <Password>MenachemStern@22</Password>
+    <Adress>Rehov Rav Avraham 9, Jerusalem</Adress>
+    <Latitude>31.7627</Latitude>
+    <Longitude>35.213</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>6240</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>336100992</VolunteerId>
+    <FullName>Binyamin Segal</FullName>
+    <Email>binyamin.segal@mail.com</Email>
+    <Password>Binyamin@Segal2023</Password>
+    <Adress>Rehov Avraham Avinu 16, Jerusalem</Adress>
+    <Latitude>31.7799</Latitude>
+    <Longitude>35.2116</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>10612</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>521367604</VolunteerId>
+    <FullName>Aharon Gold</FullName>
+    <Email>aharon.gold@mail.com</Email>
+    <Password>AharonGold!2024</Password>
+    <Adress>Rehov Rav Yitzhak 7, Jerusalem</Adress>
+    <Latitude>31.7724</Latitude>
+    <Longitude>35.215</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>10199</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>354774588</VolunteerId>
+    <FullName>Moshe Cohen</FullName>
+    <Email>moshe.cohen@mail.com</Email>
+    <Password>Moshe@2024Cohen</Password>
+    <Adress>Rehov HaRav Kook 12, Jerusalem</Adress>
+    <Latitude>31.7721</Latitude>
+    <Longitude>35.2152</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>7599</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>453273539</VolunteerId>
+    <FullName>Yitzhak Levy</FullName>
+    <Email>yitzhak.levy@mail.com</Email>
+    <Password>Yitzhak!LevY78</Password>
+    <Adress>Rehov Sha'arei Chessed 5, Jerusalem</Adress>
+    <Latitude>31.7867</Latitude>
+    <Longitude>35.2131</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>11120</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>453279786</VolunteerId>
+    <FullName>Aryeh Fried</FullName>
+    <Email>aryeh.fried@mail.com</Email>
+    <Password>Aryeh_Fried123$</Password>
+    <Adress>Rehov Zichron Moshe 8, Jerusalem</Adress>
+    <Latitude>31.7739</Latitude>
+    <Longitude>35.2113</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>10443</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>237780719</VolunteerId>
+    <FullName>Shimon Baruch</FullName>
+    <Email>shimon.baruch@mail.com</Email>
+    <Password>Shimon@Baruch456</Password>
+    <Adress>Rehov Rabbi Akiva 19, Jerusalem</Adress>
+    <Latitude>31.776</Latitude>
+    <Longitude>35.2137</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>9258</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>687986969</VolunteerId>
+    <FullName>Chaim Goldstein</FullName>
+    <Email>chaim.goldstein@mail.com</Email>
+    <Password>Chaim_Goldstein2024#</Password>
+    <Adress>Rehov Rav Herzog 25, Jerusalem</Adress>
+    <Latitude>31.7633</Latitude>
+    <Longitude>35.2028</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>12257</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>221318242</VolunteerId>
+    <FullName>Sarah Levi</FullName>
+    <Email>sarah.levi@mail.com</Email>
+    <Password>Sarah!Levi89</Password>
+    <Adress>Rehov HaRav Shmuel 3, Jerusalem</Adress>
+    <Latitude>31.7852</Latitude>
+    <Longitude>35.2006</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>6170</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>219144733</VolunteerId>
+    <FullName>Miriam Weiss</FullName>
+    <Email>miriam.weiss@mail.com</Email>
+    <Password>Miriam_Weiss!2023</Password>
+    <Adress>Rehov Nechama 14, Jerusalem</Adress>
+    <Latitude>31.7582</Latitude>
+    <Longitude>35.2215</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>10872</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>445658957</VolunteerId>
+    <FullName>Rachel Schwartz</FullName>
+    <Email>rachel.schwartz@mail.com</Email>
+    <Password>Rachel$Schwartz11</Password>
+    <Adress>Rehov Yosef 21, Jerusalem</Adress>
+    <Latitude>31.7634</Latitude>
+    <Longitude>35.206</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>8818</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>765711005</VolunteerId>
+    <FullName>Esther Friedman</FullName>
+    <Email>esther.friedman@mail.com</Email>
+    <Password>Esther@Friedman99</Password>
+    <Adress>Rehov HaRav Shmuel 8, Jerusalem</Adress>
+    <Latitude>31.7911</Latitude>
+    <Longitude>35.2153</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>10695</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>444130063</VolunteerId>
+    <FullName>Rivka Shapiro</FullName>
+    <Email>rivka.shapiro@mail.com</Email>
+    <Password>RivkaSh@piro21</Password>
+    <Adress>Rehov Betzalel 4, Jerusalem</Adress>
+    <Latitude>31.7778</Latitude>
+    <Longitude>35.211</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>9581</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>500061426</VolunteerId>
+    <FullName>David Rosen</FullName>
+    <Email>david.rosen@mail.com</Email>
+    <Password>David_Rosen@2024</Password>
+    <Adress>Rehov HaRav Shlomo 11, Jerusalem</Adress>
+    <Latitude>31.7735</Latitude>
+    <Longitude>35.2086</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>4318</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>368175549</VolunteerId>
+    <FullName>Yaakov Katz</FullName>
+    <Email>yaakov.katz@mail.com</Email>
+    <Password>Yaakov_Katz789#</Password>
+    <Adress>Rehov Dolev 22, Jerusalem</Adress>
+    <Latitude>31.7504</Latitude>
+    <Longitude>35.2068</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>8473</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>652010626</VolunteerId>
+    <FullName>Menachem Stern</FullName>
+    <Email>menachem.stern@mail.com</Email>
+    <Password>MenachemStern@22</Password>
+    <Adress>Rehov Rav Avraham 9, Jerusalem</Adress>
+    <Latitude>31.7627</Latitude>
+    <Longitude>35.213</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>4852</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>281698843</VolunteerId>
+    <FullName>Binyamin Segal</FullName>
+    <Email>binyamin.segal@mail.com</Email>
+    <Password>Binyamin@Segal2023</Password>
+    <Adress>Rehov Avraham Avinu 16, Jerusalem</Adress>
+    <Latitude>31.7799</Latitude>
+    <Longitude>35.2116</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>5819</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>496653126</VolunteerId>
+    <FullName>Aharon Gold</FullName>
+    <Email>aharon.gold@mail.com</Email>
+    <Password>AharonGold!2024</Password>
+    <Adress>Rehov Rav Yitzhak 7, Jerusalem</Adress>
+    <Latitude>31.7724</Latitude>
+    <Longitude>35.215</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>7772</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>501166506</VolunteerId>
+    <FullName>Moshe Cohen</FullName>
+    <Email>moshe.cohen@mail.com</Email>
+    <Password>Moshe@2024Cohen</Password>
+    <Adress>Rehov HaRav Kook 12, Jerusalem</Adress>
+    <Latitude>31.7721</Latitude>
+    <Longitude>35.2152</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>7629</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>203022790</VolunteerId>
+    <FullName>Yitzhak Levy</FullName>
+    <Email>yitzhak.levy@mail.com</Email>
+    <Password>Yitzhak!LevY78</Password>
+    <Adress>Rehov Sha'arei Chessed 5, Jerusalem</Adress>
+    <Latitude>31.7867</Latitude>
+    <Longitude>35.2131</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>4049</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>634393003</VolunteerId>
+    <FullName>Aryeh Fried</FullName>
+    <Email>aryeh.fried@mail.com</Email>
+    <Password>Aryeh_Fried123$</Password>
+    <Adress>Rehov Zichron Moshe 8, Jerusalem</Adress>
+    <Latitude>31.7739</Latitude>
+    <Longitude>35.2113</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>6843</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>707080893</VolunteerId>
+    <FullName>Shimon Baruch</FullName>
+    <Email>shimon.baruch@mail.com</Email>
+    <Password>Shimon@Baruch456</Password>
+    <Adress>Rehov Rabbi Akiva 19, Jerusalem</Adress>
+    <Latitude>31.776</Latitude>
+    <Longitude>35.2137</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>5087</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>733281432</VolunteerId>
+    <FullName>Chaim Goldstein</FullName>
+    <Email>chaim.goldstein@mail.com</Email>
+    <Password>Chaim_Goldstein2024#</Password>
+    <Adress>Rehov Rav Herzog 25, Jerusalem</Adress>
+    <Latitude>31.7633</Latitude>
+    <Longitude>35.2028</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>4692</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>333045373</VolunteerId>
+    <FullName>Sarah Levi</FullName>
+    <Email>sarah.levi@mail.com</Email>
+    <Password>Sarah!Levi89</Password>
+    <Adress>Rehov HaRav Shmuel 3, Jerusalem</Adress>
+    <Latitude>31.7852</Latitude>
+    <Longitude>35.2006</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>8493</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>393111939</VolunteerId>
+    <FullName>Miriam Weiss</FullName>
+    <Email>miriam.weiss@mail.com</Email>
+    <Password>Miriam_Weiss!2023</Password>
+    <Adress>Rehov Nechama 14, Jerusalem</Adress>
+    <Latitude>31.7582</Latitude>
+    <Longitude>35.2215</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>6836</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>488767753</VolunteerId>
+    <FullName>Rachel Schwartz</FullName>
+    <Email>rachel.schwartz@mail.com</Email>
+    <Password>Rachel$Schwartz11</Password>
+    <Adress>Rehov Yosef 21, Jerusalem</Adress>
+    <Latitude>31.7634</Latitude>
+    <Longitude>35.206</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>11342</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>626942901</VolunteerId>
+    <FullName>Esther Friedman</FullName>
+    <Email>esther.friedman@mail.com</Email>
+    <Password>Esther@Friedman99</Password>
+    <Adress>Rehov HaRav Shmuel 8, Jerusalem</Adress>
+    <Latitude>31.7911</Latitude>
+    <Longitude>35.2153</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>6608</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>264212625</VolunteerId>
+    <FullName>Rivka Shapiro</FullName>
+    <Email>rivka.shapiro@mail.com</Email>
+    <Password>RivkaSh@piro21</Password>
+    <Adress>Rehov Betzalel 4, Jerusalem</Adress>
+    <Latitude>31.7778</Latitude>
+    <Longitude>35.211</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>7688</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>452573928</VolunteerId>
+    <FullName>David Rosen</FullName>
+    <Email>david.rosen@mail.com</Email>
+    <Password>David_Rosen@2024</Password>
+    <Adress>Rehov HaRav Shlomo 11, Jerusalem</Adress>
+    <Latitude>31.7735</Latitude>
+    <Longitude>35.2086</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>6764</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>500499877</VolunteerId>
+    <FullName>Yaakov Katz</FullName>
+    <Email>yaakov.katz@mail.com</Email>
+    <Password>Yaakov_Katz789#</Password>
+    <Adress>Rehov Dolev 22, Jerusalem</Adress>
+    <Latitude>31.7504</Latitude>
+    <Longitude>35.2068</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>9741</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>416224410</VolunteerId>
+    <FullName>Menachem Stern</FullName>
+    <Email>menachem.stern@mail.com</Email>
+    <Password>MenachemStern@22</Password>
+    <Adress>Rehov Rav Avraham 9, Jerusalem</Adress>
+    <Latitude>31.7627</Latitude>
+    <Longitude>35.213</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>12413</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>355898171</VolunteerId>
+    <FullName>Binyamin Segal</FullName>
+    <Email>binyamin.segal@mail.com</Email>
+    <Password>Binyamin@Segal2023</Password>
+    <Adress>Rehov Avraham Avinu 16, Jerusalem</Adress>
+    <Latitude>31.7799</Latitude>
+    <Longitude>35.2116</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>7307</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>214763629</VolunteerId>
+    <FullName>Aharon Gold</FullName>
+    <Email>aharon.gold@mail.com</Email>
+    <Password>AharonGold!2024</Password>
+    <Adress>Rehov Rav Yitzhak 7, Jerusalem</Adress>
+    <Latitude>31.7724</Latitude>
+    <Longitude>35.215</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>8158</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>315403242</VolunteerId>
+    <FullName>Moshe Cohen</FullName>
+    <Email>moshe.cohen@mail.com</Email>
+    <Password>Moshe@2024Cohen</Password>
+    <Adress>Rehov HaRav Kook 12, Jerusalem</Adress>
+    <Latitude>31.7721</Latitude>
+    <Longitude>35.2152</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>9342</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>402916836</VolunteerId>
+    <FullName>Yitzhak Levy</FullName>
+    <Email>yitzhak.levy@mail.com</Email>
+    <Password>Yitzhak!LevY78</Password>
+    <Adress>Rehov Sha'arei Chessed 5, Jerusalem</Adress>
+    <Latitude>31.7867</Latitude>
+    <Longitude>35.2131</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>6513</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>336747854</VolunteerId>
+    <FullName>Aryeh Fried</FullName>
+    <Email>aryeh.fried@mail.com</Email>
+    <Password>Aryeh_Fried123$</Password>
+    <Adress>Rehov Zichron Moshe 8, Jerusalem</Adress>
+    <Latitude>31.7739</Latitude>
+    <Longitude>35.2113</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>4842</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>247921944</VolunteerId>
+    <FullName>Shimon Baruch</FullName>
+    <Email>shimon.baruch@mail.com</Email>
+    <Password>Shimon@Baruch456</Password>
+    <Adress>Rehov Rabbi Akiva 19, Jerusalem</Adress>
+    <Latitude>31.776</Latitude>
+    <Longitude>35.2137</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>8224</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>205938595</VolunteerId>
+    <FullName>Chaim Goldstein</FullName>
+    <Email>chaim.goldstein@mail.com</Email>
+    <Password>Chaim_Goldstein2024#</Password>
+    <Adress>Rehov Rav Herzog 25, Jerusalem</Adress>
+    <Latitude>31.7633</Latitude>
+    <Longitude>35.2028</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>5357</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>605138768</VolunteerId>
+    <FullName>Sarah Levi</FullName>
+    <Email>sarah.levi@mail.com</Email>
+    <Password>Sarah!Levi89</Password>
+    <Adress>Rehov HaRav Shmuel 3, Jerusalem</Adress>
+    <Latitude>31.7852</Latitude>
+    <Longitude>35.2006</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>9458</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>343189220</VolunteerId>
+    <FullName>Miriam Weiss</FullName>
+    <Email>miriam.weiss@mail.com</Email>
+    <Password>Miriam_Weiss!2023</Password>
+    <Adress>Rehov Nechama 14, Jerusalem</Adress>
+    <Latitude>31.7582</Latitude>
+    <Longitude>35.2215</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>8795</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>414014610</VolunteerId>
+    <FullName>Rachel Schwartz</FullName>
+    <Email>rachel.schwartz@mail.com</Email>
+    <Password>Rachel$Schwartz11</Password>
+    <Adress>Rehov Yosef 21, Jerusalem</Adress>
+    <Latitude>31.7634</Latitude>
+    <Longitude>35.206</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>11909</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>272644794</VolunteerId>
+    <FullName>Esther Friedman</FullName>
+    <Email>esther.friedman@mail.com</Email>
+    <Password>Esther@Friedman99</Password>
+    <Adress>Rehov HaRav Shmuel 8, Jerusalem</Adress>
+    <Latitude>31.7911</Latitude>
+    <Longitude>35.2153</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>4482</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>205237374</VolunteerId>
+    <FullName>Rivka Shapiro</FullName>
+    <Email>rivka.shapiro@mail.com</Email>
+    <Password>RivkaSh@piro21</Password>
+    <Adress>Rehov Betzalel 4, Jerusalem</Adress>
+    <Latitude>31.7778</Latitude>
+    <Longitude>35.211</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>9561</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>460075006</VolunteerId>
+    <FullName>David Rosen</FullName>
+    <Email>david.rosen@mail.com</Email>
+    <Password>David_Rosen@2024</Password>
+    <Adress>Rehov HaRav Shlomo 11, Jerusalem</Adress>
+    <Latitude>31.7735</Latitude>
+    <Longitude>35.2086</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>10378</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>292421222</VolunteerId>
+    <FullName>Yaakov Katz</FullName>
+    <Email>yaakov.katz@mail.com</Email>
+    <Password>Yaakov_Katz789#</Password>
+    <Adress>Rehov Dolev 22, Jerusalem</Adress>
+    <Latitude>31.7504</Latitude>
+    <Longitude>35.2068</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>5695</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>661444593</VolunteerId>
+    <FullName>Menachem Stern</FullName>
+    <Email>menachem.stern@mail.com</Email>
+    <Password>MenachemStern@22</Password>
+    <Adress>Rehov Rav Avraham 9, Jerusalem</Adress>
+    <Latitude>31.7627</Latitude>
+    <Longitude>35.213</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>4923</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>259025407</VolunteerId>
+    <FullName>Binyamin Segal</FullName>
+    <Email>binyamin.segal@mail.com</Email>
+    <Password>Binyamin@Segal2023</Password>
+    <Adress>Rehov Avraham Avinu 16, Jerusalem</Adress>
+    <Latitude>31.7799</Latitude>
+    <Longitude>35.2116</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>4148</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>404954870</VolunteerId>
+    <FullName>Aharon Gold</FullName>
+    <Email>aharon.gold@mail.com</Email>
+    <Password>AharonGold!2024</Password>
+    <Adress>Rehov Rav Yitzhak 7, Jerusalem</Adress>
+    <Latitude>31.7724</Latitude>
+    <Longitude>35.215</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>5291</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>392959382</VolunteerId>
+    <FullName>Moshe Cohen</FullName>
+    <Email>moshe.cohen@mail.com</Email>
+    <Password>Moshe@2024Cohen</Password>
+    <Adress>Rehov HaRav Kook 12, Jerusalem</Adress>
+    <Latitude>31.7721</Latitude>
+    <Longitude>35.2152</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>5435</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>646296718</VolunteerId>
+    <FullName>Yitzhak Levy</FullName>
+    <Email>yitzhak.levy@mail.com</Email>
+    <Password>Yitzhak!LevY78</Password>
+    <Adress>Rehov Sha'arei Chessed 5, Jerusalem</Adress>
+    <Latitude>31.7867</Latitude>
+    <Longitude>35.2131</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>10673</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>534630269</VolunteerId>
+    <FullName>Aryeh Fried</FullName>
+    <Email>aryeh.fried@mail.com</Email>
+    <Password>Aryeh_Fried123$</Password>
+    <Adress>Rehov Zichron Moshe 8, Jerusalem</Adress>
+    <Latitude>31.7739</Latitude>
+    <Longitude>35.2113</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>4553</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>377899325</VolunteerId>
+    <FullName>Shimon Baruch</FullName>
+    <Email>shimon.baruch@mail.com</Email>
+    <Password>Shimon@Baruch456</Password>
+    <Adress>Rehov Rabbi Akiva 19, Jerusalem</Adress>
+    <Latitude>31.776</Latitude>
+    <Longitude>35.2137</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>7092</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>626265067</VolunteerId>
+    <FullName>Chaim Goldstein</FullName>
+    <Email>chaim.goldstein@mail.com</Email>
+    <Password>Chaim_Goldstein2024#</Password>
+    <Adress>Rehov Rav Herzog 25, Jerusalem</Adress>
+    <Latitude>31.7633</Latitude>
+    <Longitude>35.2028</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>9667</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>535764173</VolunteerId>
+    <FullName>Sarah Levi</FullName>
+    <Email>sarah.levi@mail.com</Email>
+    <Password>Sarah!Levi89</Password>
+    <Adress>Rehov HaRav Shmuel 3, Jerusalem</Adress>
+    <Latitude>31.7852</Latitude>
+    <Longitude>35.2006</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>7833</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>233339928</VolunteerId>
+    <FullName>Miriam Weiss</FullName>
+    <Email>miriam.weiss@mail.com</Email>
+    <Password>Miriam_Weiss!2023</Password>
+    <Adress>Rehov Nechama 14, Jerusalem</Adress>
+    <Latitude>31.7582</Latitude>
+    <Longitude>35.2215</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>7843</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>715253160</VolunteerId>
+    <FullName>Rachel Schwartz</FullName>
+    <Email>rachel.schwartz@mail.com</Email>
+    <Password>Rachel$Schwartz11</Password>
+    <Adress>Rehov Yosef 21, Jerusalem</Adress>
+    <Latitude>31.7634</Latitude>
+    <Longitude>35.206</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>11447</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>577952484</VolunteerId>
+    <FullName>Esther Friedman</FullName>
+    <Email>esther.friedman@mail.com</Email>
+    <Password>Esther@Friedman99</Password>
+    <Adress>Rehov HaRav Shmuel 8, Jerusalem</Adress>
+    <Latitude>31.7911</Latitude>
+    <Longitude>35.2153</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>6694</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>584153195</VolunteerId>
+    <FullName>Rivka Shapiro</FullName>
+    <Email>rivka.shapiro@mail.com</Email>
+    <Password>RivkaSh@piro21</Password>
+    <Adress>Rehov Betzalel 4, Jerusalem</Adress>
+    <Latitude>31.7778</Latitude>
+    <Longitude>35.211</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>8796</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>289535639</VolunteerId>
+    <FullName>David Rosen</FullName>
+    <Email>david.rosen@mail.com</Email>
+    <Password>David_Rosen@2024</Password>
+    <Adress>Rehov HaRav Shlomo 11, Jerusalem</Adress>
+    <Latitude>31.7735</Latitude>
+    <Longitude>35.2086</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>7951</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>643233407</VolunteerId>
+    <FullName>Yaakov Katz</FullName>
+    <Email>yaakov.katz@mail.com</Email>
+    <Password>Yaakov_Katz789#</Password>
+    <Adress>Rehov Dolev 22, Jerusalem</Adress>
+    <Latitude>31.7504</Latitude>
+    <Longitude>35.2068</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>12238</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>359678150</VolunteerId>
+    <FullName>Menachem Stern</FullName>
+    <Email>menachem.stern@mail.com</Email>
+    <Password>MenachemStern@22</Password>
+    <Adress>Rehov Rav Avraham 9, Jerusalem</Adress>
+    <Latitude>31.7627</Latitude>
+    <Longitude>35.213</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>7677</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>397003792</VolunteerId>
+    <FullName>Binyamin Segal</FullName>
+    <Email>binyamin.segal@mail.com</Email>
+    <Password>Binyamin@Segal2023</Password>
+    <Adress>Rehov Avraham Avinu 16, Jerusalem</Adress>
+    <Latitude>31.7799</Latitude>
+    <Longitude>35.2116</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>4326</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>334653518</VolunteerId>
+    <FullName>Aharon Gold</FullName>
+    <Email>aharon.gold@mail.com</Email>
+    <Password>AharonGold!2024</Password>
+    <Adress>Rehov Rav Yitzhak 7, Jerusalem</Adress>
+    <Latitude>31.7724</Latitude>
+    <Longitude>35.215</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>10901</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>585014829</VolunteerId>
+    <FullName>Moshe Cohen</FullName>
+    <Email>moshe.cohen@mail.com</Email>
+    <Password>Moshe@2024Cohen</Password>
+    <Adress>Rehov HaRav Kook 12, Jerusalem</Adress>
+    <Latitude>31.7721</Latitude>
+    <Longitude>35.2152</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>7941</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>651684638</VolunteerId>
+    <FullName>Yitzhak Levy</FullName>
+    <Email>yitzhak.levy@mail.com</Email>
+    <Password>Yitzhak!LevY78</Password>
+    <Adress>Rehov Sha'arei Chessed 5, Jerusalem</Adress>
+    <Latitude>31.7867</Latitude>
+    <Longitude>35.2131</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>6272</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>538923749</VolunteerId>
+    <FullName>Aryeh Fried</FullName>
+    <Email>aryeh.fried@mail.com</Email>
+    <Password>Aryeh_Fried123$</Password>
+    <Adress>Rehov Zichron Moshe 8, Jerusalem</Adress>
+    <Latitude>31.7739</Latitude>
+    <Longitude>35.2113</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>5964</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>637555277</VolunteerId>
+    <FullName>Shimon Baruch</FullName>
+    <Email>shimon.baruch@mail.com</Email>
+    <Password>Shimon@Baruch456</Password>
+    <Adress>Rehov Rabbi Akiva 19, Jerusalem</Adress>
+    <Latitude>31.776</Latitude>
+    <Longitude>35.2137</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>9606</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>665814605</VolunteerId>
+    <FullName>Chaim Goldstein</FullName>
+    <Email>chaim.goldstein@mail.com</Email>
+    <Password>Chaim_Goldstein2024#</Password>
+    <Adress>Rehov Rav Herzog 25, Jerusalem</Adress>
+    <Latitude>31.7633</Latitude>
+    <Longitude>35.2028</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>9109</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>566635277</VolunteerId>
+    <FullName>Sarah Levi</FullName>
+    <Email>sarah.levi@mail.com</Email>
+    <Password>Sarah!Levi89</Password>
+    <Adress>Rehov HaRav Shmuel 3, Jerusalem</Adress>
+    <Latitude>31.7852</Latitude>
+    <Longitude>35.2006</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>10559</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>659873959</VolunteerId>
+    <FullName>Miriam Weiss</FullName>
+    <Email>miriam.weiss@mail.com</Email>
+    <Password>Miriam_Weiss!2023</Password>
+    <Adress>Rehov Nechama 14, Jerusalem</Adress>
+    <Latitude>31.7582</Latitude>
+    <Longitude>35.2215</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>9055</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>589012420</VolunteerId>
+    <FullName>Rachel Schwartz</FullName>
+    <Email>rachel.schwartz@mail.com</Email>
+    <Password>Rachel$Schwartz11</Password>
+    <Adress>Rehov Yosef 21, Jerusalem</Adress>
+    <Latitude>31.7634</Latitude>
+    <Longitude>35.206</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>8286</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>735885835</VolunteerId>
+    <FullName>Esther Friedman</FullName>
+    <Email>esther.friedman@mail.com</Email>
+    <Password>Esther@Friedman99</Password>
+    <Adress>Rehov HaRav Shmuel 8, Jerusalem</Adress>
+    <Latitude>31.7911</Latitude>
+    <Longitude>35.2153</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>7072</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>355056958</VolunteerId>
+    <FullName>Rivka Shapiro</FullName>
+    <Email>rivka.shapiro@mail.com</Email>
+    <Password>RivkaSh@piro21</Password>
+    <Adress>Rehov Betzalel 4, Jerusalem</Adress>
+    <Latitude>31.7778</Latitude>
+    <Longitude>35.211</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>8375</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>464566075</VolunteerId>
+    <FullName>David Rosen</FullName>
+    <Email>david.rosen@mail.com</Email>
+    <Password>David_Rosen@2024</Password>
+    <Adress>Rehov HaRav Shlomo 11, Jerusalem</Adress>
+    <Latitude>31.7735</Latitude>
+    <Longitude>35.2086</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>9654</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>767393483</VolunteerId>
+    <FullName>Yaakov Katz</FullName>
+    <Email>yaakov.katz@mail.com</Email>
+    <Password>Yaakov_Katz789#</Password>
+    <Adress>Rehov Dolev 22, Jerusalem</Adress>
+    <Latitude>31.7504</Latitude>
+    <Longitude>35.2068</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>11118</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>694937858</VolunteerId>
+    <FullName>Menachem Stern</FullName>
+    <Email>menachem.stern@mail.com</Email>
+    <Password>MenachemStern@22</Password>
+    <Adress>Rehov Rav Avraham 9, Jerusalem</Adress>
+    <Latitude>31.7627</Latitude>
+    <Longitude>35.213</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>4365</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>434373053</VolunteerId>
+    <FullName>Binyamin Segal</FullName>
+    <Email>binyamin.segal@mail.com</Email>
+    <Password>Binyamin@Segal2023</Password>
+    <Adress>Rehov Avraham Avinu 16, Jerusalem</Adress>
+    <Latitude>31.7799</Latitude>
+    <Longitude>35.2116</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>7223</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>270378294</VolunteerId>
+    <FullName>Aharon Gold</FullName>
+    <Email>aharon.gold@mail.com</Email>
+    <Password>AharonGold!2024</Password>
+    <Adress>Rehov Rav Yitzhak 7, Jerusalem</Adress>
+    <Latitude>31.7724</Latitude>
+    <Longitude>35.215</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>11154</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>232819077</VolunteerId>
+    <FullName>Moshe Cohen</FullName>
+    <Email>moshe.cohen@mail.com</Email>
+    <Password>Moshe@2024Cohen</Password>
+    <Adress>Rehov HaRav Kook 12, Jerusalem</Adress>
+    <Latitude>31.7721</Latitude>
+    <Longitude>35.2152</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>11719</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>329042138</VolunteerId>
+    <FullName>Yitzhak Levy</FullName>
+    <Email>yitzhak.levy@mail.com</Email>
+    <Password>Yitzhak!LevY78</Password>
+    <Adress>Rehov Sha'arei Chessed 5, Jerusalem</Adress>
+    <Latitude>31.7867</Latitude>
+    <Longitude>35.2131</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>12381</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>603192560</VolunteerId>
+    <FullName>Aryeh Fried</FullName>
+    <Email>aryeh.fried@mail.com</Email>
+    <Password>Aryeh_Fried123$</Password>
+    <Adress>Rehov Zichron Moshe 8, Jerusalem</Adress>
+    <Latitude>31.7739</Latitude>
+    <Longitude>35.2113</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>8548</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>517492371</VolunteerId>
+    <FullName>Shimon Baruch</FullName>
+    <Email>shimon.baruch@mail.com</Email>
+    <Password>Shimon@Baruch456</Password>
+    <Adress>Rehov Rabbi Akiva 19, Jerusalem</Adress>
+    <Latitude>31.776</Latitude>
+    <Longitude>35.2137</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>8337</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>796201510</VolunteerId>
+    <FullName>Chaim Goldstein</FullName>
+    <Email>chaim.goldstein@mail.com</Email>
+    <Password>Chaim_Goldstein2024#</Password>
+    <Adress>Rehov Rav Herzog 25, Jerusalem</Adress>
+    <Latitude>31.7633</Latitude>
+    <Longitude>35.2028</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>7528</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>268603603</VolunteerId>
+    <FullName>Sarah Levi</FullName>
+    <Email>sarah.levi@mail.com</Email>
+    <Password>Sarah!Levi89</Password>
+    <Adress>Rehov HaRav Shmuel 3, Jerusalem</Adress>
+    <Latitude>31.7852</Latitude>
+    <Longitude>35.2006</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>12125</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>568873414</VolunteerId>
+    <FullName>Miriam Weiss</FullName>
+    <Email>miriam.weiss@mail.com</Email>
+    <Password>Miriam_Weiss!2023</Password>
+    <Adress>Rehov Nechama 14, Jerusalem</Adress>
+    <Latitude>31.7582</Latitude>
+    <Longitude>35.2215</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>9544</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>511301495</VolunteerId>
+    <FullName>Rachel Schwartz</FullName>
+    <Email>rachel.schwartz@mail.com</Email>
+    <Password>Rachel$Schwartz11</Password>
+    <Adress>Rehov Yosef 21, Jerusalem</Adress>
+    <Latitude>31.7634</Latitude>
+    <Longitude>35.206</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>9416</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>443007310</VolunteerId>
+    <FullName>Esther Friedman</FullName>
+    <Email>esther.friedman@mail.com</Email>
+    <Password>Esther@Friedman99</Password>
+    <Adress>Rehov HaRav Shmuel 8, Jerusalem</Adress>
+    <Latitude>31.7911</Latitude>
+    <Longitude>35.2153</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>4763</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>685216805</VolunteerId>
+    <FullName>Rivka Shapiro</FullName>
+    <Email>rivka.shapiro@mail.com</Email>
+    <Password>RivkaSh@piro21</Password>
+    <Adress>Rehov Betzalel 4, Jerusalem</Adress>
+    <Latitude>31.7778</Latitude>
+    <Longitude>35.211</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>10490</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>443210914</VolunteerId>
+    <FullName>David Rosen</FullName>
+    <Email>david.rosen@mail.com</Email>
+    <Password>David_Rosen@2024</Password>
+    <Adress>Rehov HaRav Shlomo 11, Jerusalem</Adress>
+    <Latitude>31.7735</Latitude>
+    <Longitude>35.2086</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>7864</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>206848146</VolunteerId>
+    <FullName>Yaakov Katz</FullName>
+    <Email>yaakov.katz@mail.com</Email>
+    <Password>Yaakov_Katz789#</Password>
+    <Adress>Rehov Dolev 22, Jerusalem</Adress>
+    <Latitude>31.7504</Latitude>
+    <Longitude>35.2068</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>5429</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>676689565</VolunteerId>
+    <FullName>Menachem Stern</FullName>
+    <Email>menachem.stern@mail.com</Email>
+    <Password>MenachemStern@22</Password>
+    <Adress>Rehov Rav Avraham 9, Jerusalem</Adress>
+    <Latitude>31.7627</Latitude>
+    <Longitude>35.213</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>10873</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>600984295</VolunteerId>
+    <FullName>Binyamin Segal</FullName>
+    <Email>binyamin.segal@mail.com</Email>
+    <Password>Binyamin@Segal2023</Password>
+    <Adress>Rehov Avraham Avinu 16, Jerusalem</Adress>
+    <Latitude>31.7799</Latitude>
+    <Longitude>35.2116</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>6937</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>286201757</VolunteerId>
+    <FullName>Aharon Gold</FullName>
+    <Email>aharon.gold@mail.com</Email>
+    <Password>AharonGold!2024</Password>
+    <Adress>Rehov Rav Yitzhak 7, Jerusalem</Adress>
+    <Latitude>31.7724</Latitude>
+    <Longitude>35.215</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>11995</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>589997728</VolunteerId>
+    <FullName>Moshe Cohen</FullName>
+    <Email>moshe.cohen@mail.com</Email>
+    <Password>Moshe@2024Cohen</Password>
+    <Adress>Rehov HaRav Kook 12, Jerusalem</Adress>
+    <Latitude>31.7721</Latitude>
+    <Longitude>35.2152</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>9261</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>578813980</VolunteerId>
+    <FullName>Yitzhak Levy</FullName>
+    <Email>yitzhak.levy@mail.com</Email>
+    <Password>Yitzhak!LevY78</Password>
+    <Adress>Rehov Sha'arei Chessed 5, Jerusalem</Adress>
+    <Latitude>31.7867</Latitude>
+    <Longitude>35.2131</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>9995</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>439719375</VolunteerId>
+    <FullName>Aryeh Fried</FullName>
+    <Email>aryeh.fried@mail.com</Email>
+    <Password>Aryeh_Fried123$</Password>
+    <Adress>Rehov Zichron Moshe 8, Jerusalem</Adress>
+    <Latitude>31.7739</Latitude>
+    <Longitude>35.2113</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>12210</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>711169528</VolunteerId>
+    <FullName>Shimon Baruch</FullName>
+    <Email>shimon.baruch@mail.com</Email>
+    <Password>Shimon@Baruch456</Password>
+    <Adress>Rehov Rabbi Akiva 19, Jerusalem</Adress>
+    <Latitude>31.776</Latitude>
+    <Longitude>35.2137</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>4789</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>731714867</VolunteerId>
+    <FullName>Chaim Goldstein</FullName>
+    <Email>chaim.goldstein@mail.com</Email>
+    <Password>Chaim_Goldstein2024#</Password>
+    <Adress>Rehov Rav Herzog 25, Jerusalem</Adress>
+    <Latitude>31.7633</Latitude>
+    <Longitude>35.2028</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>8183</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>748210246</VolunteerId>
+    <FullName>Sarah Levi</FullName>
+    <Email>sarah.levi@mail.com</Email>
+    <Password>Sarah!Levi89</Password>
+    <Adress>Rehov HaRav Shmuel 3, Jerusalem</Adress>
+    <Latitude>31.7852</Latitude>
+    <Longitude>35.2006</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>11145</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>599629956</VolunteerId>
+    <FullName>Miriam Weiss</FullName>
+    <Email>miriam.weiss@mail.com</Email>
+    <Password>Miriam_Weiss!2023</Password>
+    <Adress>Rehov Nechama 14, Jerusalem</Adress>
+    <Latitude>31.7582</Latitude>
+    <Longitude>35.2215</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>5681</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>331359102</VolunteerId>
+    <FullName>Rachel Schwartz</FullName>
+    <Email>rachel.schwartz@mail.com</Email>
+    <Password>Rachel$Schwartz11</Password>
+    <Adress>Rehov Yosef 21, Jerusalem</Adress>
+    <Latitude>31.7634</Latitude>
+    <Longitude>35.206</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>8231</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>575840923</VolunteerId>
+    <FullName>Esther Friedman</FullName>
+    <Email>esther.friedman@mail.com</Email>
+    <Password>Esther@Friedman99</Password>
+    <Adress>Rehov HaRav Shmuel 8, Jerusalem</Adress>
+    <Latitude>31.7911</Latitude>
+    <Longitude>35.2153</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>6396</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>624050927</VolunteerId>
+    <FullName>Rivka Shapiro</FullName>
+    <Email>rivka.shapiro@mail.com</Email>
+    <Password>RivkaSh@piro21</Password>
+    <Adress>Rehov Betzalel 4, Jerusalem</Adress>
+    <Latitude>31.7778</Latitude>
+    <Longitude>35.211</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>5991</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>281393493</VolunteerId>
+    <FullName>David Rosen</FullName>
+    <Email>david.rosen@mail.com</Email>
+    <Password>David_Rosen@2024</Password>
+    <Adress>Rehov HaRav Shlomo 11, Jerusalem</Adress>
+    <Latitude>31.7735</Latitude>
+    <Longitude>35.2086</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>11099</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>579413475</VolunteerId>
+    <FullName>Yaakov Katz</FullName>
+    <Email>yaakov.katz@mail.com</Email>
+    <Password>Yaakov_Katz789#</Password>
+    <Adress>Rehov Dolev 22, Jerusalem</Adress>
+    <Latitude>31.7504</Latitude>
+    <Longitude>35.2068</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>5125</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>553780202</VolunteerId>
+    <FullName>Menachem Stern</FullName>
+    <Email>menachem.stern@mail.com</Email>
+    <Password>MenachemStern@22</Password>
+    <Adress>Rehov Rav Avraham 9, Jerusalem</Adress>
+    <Latitude>31.7627</Latitude>
+    <Longitude>35.213</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>11763</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>353929894</VolunteerId>
+    <FullName>Binyamin Segal</FullName>
+    <Email>binyamin.segal@mail.com</Email>
+    <Password>Binyamin@Segal2023</Password>
+    <Adress>Rehov Avraham Avinu 16, Jerusalem</Adress>
+    <Latitude>31.7799</Latitude>
+    <Longitude>35.2116</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>11224</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>768063000</VolunteerId>
+    <FullName>Aharon Gold</FullName>
+    <Email>aharon.gold@mail.com</Email>
+    <Password>AharonGold!2024</Password>
+    <Adress>Rehov Rav Yitzhak 7, Jerusalem</Adress>
+    <Latitude>31.7724</Latitude>
+    <Longitude>35.215</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>11722</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>607158824</VolunteerId>
+    <FullName>Moshe Cohen</FullName>
+    <Email>moshe.cohen@mail.com</Email>
+    <Password>Moshe@2024Cohen</Password>
+    <Adress>Rehov HaRav Kook 12, Jerusalem</Adress>
+    <Latitude>31.7721</Latitude>
+    <Longitude>35.2152</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>9112</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>262670778</VolunteerId>
+    <FullName>Yitzhak Levy</FullName>
+    <Email>yitzhak.levy@mail.com</Email>
+    <Password>Yitzhak!LevY78</Password>
+    <Adress>Rehov Sha'arei Chessed 5, Jerusalem</Adress>
+    <Latitude>31.7867</Latitude>
+    <Longitude>35.2131</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>5350</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>390218604</VolunteerId>
+    <FullName>Aryeh Fried</FullName>
+    <Email>aryeh.fried@mail.com</Email>
+    <Password>Aryeh_Fried123$</Password>
+    <Adress>Rehov Zichron Moshe 8, Jerusalem</Adress>
+    <Latitude>31.7739</Latitude>
+    <Longitude>35.2113</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>10462</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>691858758</VolunteerId>
+    <FullName>Shimon Baruch</FullName>
+    <Email>shimon.baruch@mail.com</Email>
+    <Password>Shimon@Baruch456</Password>
+    <Adress>Rehov Rabbi Akiva 19, Jerusalem</Adress>
+    <Latitude>31.776</Latitude>
+    <Longitude>35.2137</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>4881</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>638836170</VolunteerId>
+    <FullName>Chaim Goldstein</FullName>
+    <Email>chaim.goldstein@mail.com</Email>
+    <Password>Chaim_Goldstein2024#</Password>
+    <Adress>Rehov Rav Herzog 25, Jerusalem</Adress>
+    <Latitude>31.7633</Latitude>
+    <Longitude>35.2028</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>4374</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>295076546</VolunteerId>
+    <FullName>Sarah Levi</FullName>
+    <Email>sarah.levi@mail.com</Email>
+    <Password>Sarah!Levi89</Password>
+    <Adress>Rehov HaRav Shmuel 3, Jerusalem</Adress>
+    <Latitude>31.7852</Latitude>
+    <Longitude>35.2006</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>12468</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>314090647</VolunteerId>
+    <FullName>Miriam Weiss</FullName>
+    <Email>miriam.weiss@mail.com</Email>
+    <Password>Miriam_Weiss!2023</Password>
+    <Adress>Rehov Nechama 14, Jerusalem</Adress>
+    <Latitude>31.7582</Latitude>
+    <Longitude>35.2215</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>5143</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>347069388</VolunteerId>
+    <FullName>Rachel Schwartz</FullName>
+    <Email>rachel.schwartz@mail.com</Email>
+    <Password>Rachel$Schwartz11</Password>
+    <Adress>Rehov Yosef 21, Jerusalem</Adress>
+    <Latitude>31.7634</Latitude>
+    <Longitude>35.206</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>6732</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>633482305</VolunteerId>
+    <FullName>Esther Friedman</FullName>
+    <Email>esther.friedman@mail.com</Email>
+    <Password>Esther@Friedman99</Password>
+    <Adress>Rehov HaRav Shmuel 8, Jerusalem</Adress>
+    <Latitude>31.7911</Latitude>
+    <Longitude>35.2153</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>8593</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>293613315</VolunteerId>
+    <FullName>Rivka Shapiro</FullName>
+    <Email>rivka.shapiro@mail.com</Email>
+    <Password>RivkaSh@piro21</Password>
+    <Adress>Rehov Betzalel 4, Jerusalem</Adress>
+    <Latitude>31.7778</Latitude>
+    <Longitude>35.211</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>12002</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>219004906</VolunteerId>
+    <FullName>David Rosen</FullName>
+    <Email>david.rosen@mail.com</Email>
+    <Password>David_Rosen@2024</Password>
+    <Adress>Rehov HaRav Shlomo 11, Jerusalem</Adress>
+    <Latitude>31.7735</Latitude>
+    <Longitude>35.2086</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>7238</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>380068862</VolunteerId>
+    <FullName>Yaakov Katz</FullName>
+    <Email>yaakov.katz@mail.com</Email>
+    <Password>Yaakov_Katz789#</Password>
+    <Adress>Rehov Dolev 22, Jerusalem</Adress>
+    <Latitude>31.7504</Latitude>
+    <Longitude>35.2068</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>6692</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>468743446</VolunteerId>
+    <FullName>Menachem Stern</FullName>
+    <Email>menachem.stern@mail.com</Email>
+    <Password>MenachemStern@22</Password>
+    <Adress>Rehov Rav Avraham 9, Jerusalem</Adress>
+    <Latitude>31.7627</Latitude>
+    <Longitude>35.213</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>8252</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>717405819</VolunteerId>
+    <FullName>Binyamin Segal</FullName>
+    <Email>binyamin.segal@mail.com</Email>
+    <Password>Binyamin@Segal2023</Password>
+    <Adress>Rehov Avraham Avinu 16, Jerusalem</Adress>
+    <Latitude>31.7799</Latitude>
+    <Longitude>35.2116</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>11985</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>514920453</VolunteerId>
+    <FullName>Aharon Gold</FullName>
+    <Email>aharon.gold@mail.com</Email>
+    <Password>AharonGold!2024</Password>
+    <Adress>Rehov Rav Yitzhak 7, Jerusalem</Adress>
+    <Latitude>31.7724</Latitude>
+    <Longitude>35.215</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>5848</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>354409707</VolunteerId>
+    <FullName>Moshe Cohen</FullName>
+    <Email>moshe.cohen@mail.com</Email>
+    <Password>Moshe@2024Cohen</Password>
+    <Adress>Rehov HaRav Kook 12, Jerusalem</Adress>
+    <Latitude>31.7721</Latitude>
+    <Longitude>35.2152</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>11475</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>390084829</VolunteerId>
+    <FullName>Yitzhak Levy</FullName>
+    <Email>yitzhak.levy@mail.com</Email>
+    <Password>Yitzhak!LevY78</Password>
+    <Adress>Rehov Sha'arei Chessed 5, Jerusalem</Adress>
+    <Latitude>31.7867</Latitude>
+    <Longitude>35.2131</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>5680</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>245809354</VolunteerId>
+    <FullName>Aryeh Fried</FullName>
+    <Email>aryeh.fried@mail.com</Email>
+    <Password>Aryeh_Fried123$</Password>
+    <Adress>Rehov Zichron Moshe 8, Jerusalem</Adress>
+    <Latitude>31.7739</Latitude>
+    <Longitude>35.2113</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>8724</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>708239977</VolunteerId>
+    <FullName>Shimon Baruch</FullName>
+    <Email>shimon.baruch@mail.com</Email>
+    <Password>Shimon@Baruch456</Password>
+    <Adress>Rehov Rabbi Akiva 19, Jerusalem</Adress>
+    <Latitude>31.776</Latitude>
+    <Longitude>35.2137</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>12370</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>485760257</VolunteerId>
+    <FullName>Chaim Goldstein</FullName>
+    <Email>chaim.goldstein@mail.com</Email>
+    <Password>Chaim_Goldstein2024#</Password>
+    <Adress>Rehov Rav Herzog 25, Jerusalem</Adress>
+    <Latitude>31.7633</Latitude>
+    <Longitude>35.2028</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>6420</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>672048391</VolunteerId>
+    <FullName>Sarah Levi</FullName>
+    <Email>sarah.levi@mail.com</Email>
+    <Password>Sarah!Levi89</Password>
+    <Adress>Rehov HaRav Shmuel 3, Jerusalem</Adress>
+    <Latitude>31.7852</Latitude>
+    <Longitude>35.2006</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>12019</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>490657338</VolunteerId>
+    <FullName>Miriam Weiss</FullName>
+    <Email>miriam.weiss@mail.com</Email>
+    <Password>Miriam_Weiss!2023</Password>
+    <Adress>Rehov Nechama 14, Jerusalem</Adress>
+    <Latitude>31.7582</Latitude>
+    <Longitude>35.2215</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>9406</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>745797091</VolunteerId>
+    <FullName>Rachel Schwartz</FullName>
+    <Email>rachel.schwartz@mail.com</Email>
+    <Password>Rachel$Schwartz11</Password>
+    <Adress>Rehov Yosef 21, Jerusalem</Adress>
+    <Latitude>31.7634</Latitude>
+    <Longitude>35.206</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>8669</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>700851883</VolunteerId>
+    <FullName>Esther Friedman</FullName>
+    <Email>esther.friedman@mail.com</Email>
+    <Password>Esther@Friedman99</Password>
+    <Adress>Rehov HaRav Shmuel 8, Jerusalem</Adress>
+    <Latitude>31.7911</Latitude>
+    <Longitude>35.2153</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>8844</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>274400918</VolunteerId>
+    <FullName>Rivka Shapiro</FullName>
+    <Email>rivka.shapiro@mail.com</Email>
+    <Password>RivkaSh@piro21</Password>
+    <Adress>Rehov Betzalel 4, Jerusalem</Adress>
+    <Latitude>31.7778</Latitude>
+    <Longitude>35.211</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>4835</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>699831095</VolunteerId>
+    <FullName>David Rosen</FullName>
+    <Email>david.rosen@mail.com</Email>
+    <Password>David_Rosen@2024</Password>
+    <Adress>Rehov HaRav Shlomo 11, Jerusalem</Adress>
+    <Latitude>31.7735</Latitude>
+    <Longitude>35.2086</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>8670</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>341338823</VolunteerId>
+    <FullName>Yaakov Katz</FullName>
+    <Email>yaakov.katz@mail.com</Email>
+    <Password>Yaakov_Katz789#</Password>
+    <Adress>Rehov Dolev 22, Jerusalem</Adress>
+    <Latitude>31.7504</Latitude>
+    <Longitude>35.2068</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>5993</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>372502368</VolunteerId>
+    <FullName>Menachem Stern</FullName>
+    <Email>menachem.stern@mail.com</Email>
+    <Password>MenachemStern@22</Password>
+    <Adress>Rehov Rav Avraham 9, Jerusalem</Adress>
+    <Latitude>31.7627</Latitude>
+    <Longitude>35.213</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>12296</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>672781588</VolunteerId>
+    <FullName>Binyamin Segal</FullName>
+    <Email>binyamin.segal@mail.com</Email>
+    <Password>Binyamin@Segal2023</Password>
+    <Adress>Rehov Avraham Avinu 16, Jerusalem</Adress>
+    <Latitude>31.7799</Latitude>
+    <Longitude>35.2116</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>4339</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>434894839</VolunteerId>
+    <FullName>Aharon Gold</FullName>
+    <Email>aharon.gold@mail.com</Email>
+    <Password>AharonGold!2024</Password>
+    <Adress>Rehov Rav Yitzhak 7, Jerusalem</Adress>
+    <Latitude>31.7724</Latitude>
+    <Longitude>35.215</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>9235</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>775332149</VolunteerId>
+    <FullName>Moshe Cohen</FullName>
+    <Email>moshe.cohen@mail.com</Email>
+    <Password>Moshe@2024Cohen</Password>
+    <Adress>Rehov HaRav Kook 12, Jerusalem</Adress>
+    <Latitude>31.7721</Latitude>
+    <Longitude>35.2152</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>4884</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>232402450</VolunteerId>
+    <FullName>Yitzhak Levy</FullName>
+    <Email>yitzhak.levy@mail.com</Email>
+    <Password>Yitzhak!LevY78</Password>
+    <Adress>Rehov Sha'arei Chessed 5, Jerusalem</Adress>
+    <Latitude>31.7867</Latitude>
+    <Longitude>35.2131</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>5478</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>597160683</VolunteerId>
+    <FullName>Aryeh Fried</FullName>
+    <Email>aryeh.fried@mail.com</Email>
+    <Password>Aryeh_Fried123$</Password>
+    <Adress>Rehov Zichron Moshe 8, Jerusalem</Adress>
+    <Latitude>31.7739</Latitude>
+    <Longitude>35.2113</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>9082</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>625242428</VolunteerId>
+    <FullName>Shimon Baruch</FullName>
+    <Email>shimon.baruch@mail.com</Email>
+    <Password>Shimon@Baruch456</Password>
+    <Adress>Rehov Rabbi Akiva 19, Jerusalem</Adress>
+    <Latitude>31.776</Latitude>
+    <Longitude>35.2137</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>8487</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>607573818</VolunteerId>
+    <FullName>Chaim Goldstein</FullName>
+    <Email>chaim.goldstein@mail.com</Email>
+    <Password>Chaim_Goldstein2024#</Password>
+    <Adress>Rehov Rav Herzog 25, Jerusalem</Adress>
+    <Latitude>31.7633</Latitude>
+    <Longitude>35.2028</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>6356</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>229757922</VolunteerId>
+    <FullName>Sarah Levi</FullName>
+    <Email>sarah.levi@mail.com</Email>
+    <Password>Sarah!Levi89</Password>
+    <Adress>Rehov HaRav Shmuel 3, Jerusalem</Adress>
+    <Latitude>31.7852</Latitude>
+    <Longitude>35.2006</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>8778</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>411392818</VolunteerId>
+    <FullName>Miriam Weiss</FullName>
+    <Email>miriam.weiss@mail.com</Email>
+    <Password>Miriam_Weiss!2023</Password>
+    <Adress>Rehov Nechama 14, Jerusalem</Adress>
+    <Latitude>31.7582</Latitude>
+    <Longitude>35.2215</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>9684</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>758977623</VolunteerId>
+    <FullName>Rachel Schwartz</FullName>
+    <Email>rachel.schwartz@mail.com</Email>
+    <Password>Rachel$Schwartz11</Password>
+    <Adress>Rehov Yosef 21, Jerusalem</Adress>
+    <Latitude>31.7634</Latitude>
+    <Longitude>35.206</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>4106</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>273070003</VolunteerId>
+    <FullName>Esther Friedman</FullName>
+    <Email>esther.friedman@mail.com</Email>
+    <Password>Esther@Friedman99</Password>
+    <Adress>Rehov HaRav Shmuel 8, Jerusalem</Adress>
+    <Latitude>31.7911</Latitude>
+    <Longitude>35.2153</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>7461</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>204552882</VolunteerId>
+    <FullName>Rivka Shapiro</FullName>
+    <Email>rivka.shapiro@mail.com</Email>
+    <Password>RivkaSh@piro21</Password>
+    <Adress>Rehov Betzalel 4, Jerusalem</Adress>
+    <Latitude>31.7778</Latitude>
+    <Longitude>35.211</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>6792</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>368251944</VolunteerId>
+    <FullName>David Rosen</FullName>
+    <Email>david.rosen@mail.com</Email>
+    <Password>David_Rosen@2024</Password>
+    <Adress>Rehov HaRav Shlomo 11, Jerusalem</Adress>
+    <Latitude>31.7735</Latitude>
+    <Longitude>35.2086</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>8936</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>743721133</VolunteerId>
+    <FullName>Yaakov Katz</FullName>
+    <Email>yaakov.katz@mail.com</Email>
+    <Password>Yaakov_Katz789#</Password>
+    <Adress>Rehov Dolev 22, Jerusalem</Adress>
+    <Latitude>31.7504</Latitude>
+    <Longitude>35.2068</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>7737</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>675019403</VolunteerId>
+    <FullName>Menachem Stern</FullName>
+    <Email>menachem.stern@mail.com</Email>
+    <Password>MenachemStern@22</Password>
+    <Adress>Rehov Rav Avraham 9, Jerusalem</Adress>
+    <Latitude>31.7627</Latitude>
+    <Longitude>35.213</Longitude>
+    <role>Volunteer</role>
+    <IsActive>true</IsActive>
+    <MaxDistance>6103</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>273227487</VolunteerId>
+    <FullName>Binyamin Segal</FullName>
+    <Email>binyamin.segal@mail.com</Email>
+    <Password>Binyamin@Segal2023</Password>
+    <Adress>Rehov Avraham Avinu 16, Jerusalem</Adress>
+    <Latitude>31.7799</Latitude>
+    <Longitude>35.2116</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>4959</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+  <Volunteer>
+    <VolunteerId>317538222</VolunteerId>
+    <FullName>Aharon Gold</FullName>
+    <Email>aharon.gold@mail.com</Email>
+    <Password>AharonGold!2024</Password>
+    <Adress>Rehov Rav Yitzhak 7, Jerusalem</Adress>
+    <Latitude>31.7724</Latitude>
+    <Longitude>35.215</Longitude>
+    <role>Volunteer</role>
+    <IsActive>false</IsActive>
+    <MaxDistance>8501</MaxDistance>
+    <distanceType>Aerial</distanceType>
+  </Volunteer>
+</Volunteer>

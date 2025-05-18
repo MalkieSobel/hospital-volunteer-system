@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAssignment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Assignment>
+    <AssignmentId>1000</AssignmentId>
+    <CallId>0</CallId>
+    <VolunteerId>501166506</VolunteerId>
+    <TreatStart>2024-02-03T07:30:00</TreatStart>
+    <TreatEnd>2024-02-03T08:00:00</TreatEnd>
+    <typeTreatEnd>SelfCancle</typeTreatEnd>
+  </Assignment>
+</ArrayOfAssignment>
